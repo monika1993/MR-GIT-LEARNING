@@ -1,2 +1,3 @@
 xyz
 git 
+remove .DS_store file
